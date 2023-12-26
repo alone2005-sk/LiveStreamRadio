@@ -27,9 +27,8 @@ BACKGROUND="${SCRIPT_DIR}/media/sample_background.mkv"
 # RTMP urls you wish to stream to
 #
 PLATFORMS=(
-        "rtmp://server/key"
-        "rtmp://server/key"
-        "rtmp://server/key"
+        "rtmp://a.rtmp.youtube.com/live2/m93k-a1fe-up9z-6w9u-awfc"
+
     )
 
 #
