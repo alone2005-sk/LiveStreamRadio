@@ -1,7 +1,7 @@
 #
 # Absolute path of the dictory the script is in. Don't touch this unless you know what you're doing
 #
-SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )" 
 
 #
 # Filter to adjust music volume. Put "1.0" to keep the original volumes
